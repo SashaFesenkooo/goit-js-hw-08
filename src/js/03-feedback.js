@@ -43,3 +43,6 @@ function getLocalStorageText() {
     inputEmail.value = saveObject.email;
     textarea.value = saveObject.message;
   }
+
+
+  
